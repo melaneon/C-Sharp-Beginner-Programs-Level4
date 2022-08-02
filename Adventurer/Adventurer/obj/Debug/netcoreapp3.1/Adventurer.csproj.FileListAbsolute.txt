@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\bin\Debug\netcoreapp3.1\Adventurer.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\bin\Debug\netcoreapp3.1\Adventurer.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\bin\Debug\netcoreapp3.1\Adventurer.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\bin\Debug\netcoreapp3.1\Adventurer.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\bin\Debug\netcoreapp3.1\Adventurer.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\bin\Debug\netcoreapp3.1\Adventurer.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\Adventurer\Adventurer\obj\Debug\netcoreapp3.1\Adventurer.pdb

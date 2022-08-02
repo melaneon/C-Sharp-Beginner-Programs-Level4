@@ -1,0 +1,13 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\bin\Debug\netcoreapp3.1\Dragon.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\bin\Debug\netcoreapp3.1\Dragon.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\bin\Debug\netcoreapp3.1\Dragon.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\bin\Debug\netcoreapp3.1\Dragon.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\bin\Debug\netcoreapp3.1\Dragon.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\bin\Debug\netcoreapp3.1\Dragon.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\obj\Debug\netcoreapp3.1\Dragon.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\obj\Debug\netcoreapp3.1\Dragon.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\obj\Debug\netcoreapp3.1\Dragon.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\obj\Debug\netcoreapp3.1\Dragon.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\obj\Debug\netcoreapp3.1\Dragon.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\obj\Debug\netcoreapp3.1\Dragon.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\Dragon\Dragon\obj\Debug\netcoreapp3.1\Dragon.genruntimeconfig.cache

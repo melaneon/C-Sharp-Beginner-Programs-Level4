@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\bin\Debug\netcoreapp3.1\ChanceDice.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\bin\Debug\netcoreapp3.1\ChanceDice.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\bin\Debug\netcoreapp3.1\ChanceDice.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\bin\Debug\netcoreapp3.1\ChanceDice.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\bin\Debug\netcoreapp3.1\ChanceDice.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\bin\Debug\netcoreapp3.1\ChanceDice.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab04\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 4\ChanceDice\ChanceDice\obj\Debug\netcoreapp3.1\ChanceDice.pdb
